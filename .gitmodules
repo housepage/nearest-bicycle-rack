@@ -1,0 +1,3 @@
+[submodule "www/lib/geodesy"]
+	path = www/lib/geodesy
+	url = git@github.com:chrisveness/geodesy.git
